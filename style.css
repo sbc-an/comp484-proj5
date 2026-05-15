@@ -1,12 +1,21 @@
-html {
+html
+{
     font-family: sans-serif;
     background-color: #a0ffff;
 }
 
-body {
+body
+{
     width: 80%;
 	margin-right: auto;
 	margin-left: auto;
     background-color: #ffffff;
 	padding: 10px 2.5% 10px 2.5%;
+}
+
+.mapContainer
+{
+    width: 70%;
+    height: 500px;
+    background-color: green;
 }
